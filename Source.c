@@ -27,7 +27,7 @@ void lab3() {
     int solution = (lem & elem);
     printf("%d", solution);
 }
-
+"А мой мальчик кедет на девятке"
 void lab4() {
 
 }
